@@ -1,0 +1,795 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+/*header start*/
+header {
+  padding: 10px 0;
+}
+.logo {
+	width: 160px;
+}
+.menu ul li a {
+  padding: 0 0 5px !important;
+}
+.btn_h {
+  margin-left: 0;
+}
+/*banner start*/
+.b_img {
+	padding: 0 0 30px;
+}
+.b_text {
+	text-align: center;
+}
+.ban_h2 {
+  margin: 0 0 5px;
+  font-size: 20px;
+}
+.b_text h1 {
+  margin: 0 0 20px;
+  font-size: 30px;
+  line-height: 38px;
+}
+.btn_ban {
+  padding: 13px 36px;
+}
+/*about start*/
+.cm_mp {
+  padding: 30px 0 60px;
+}
+.a_item {
+  margin: 30px 0 0;
+}
+.a_text {
+	text-align: center;
+}
+.ab_h1 {
+  font-size: 30px;
+  line-height: 36px;
+}
+.ab_p {
+  margin: 10px 0;
+  padding-right: 0;
+  line-height: 24px;
+}
+.a_float {
+	display: block !important;
+}
+.a_left {
+	margin: 0 auto 10px;
+  padding: 15px 0;
+  width: 80px;
+}
+.a_right {
+	text-align: center;
+}
+.a_right h2 {
+  margin-bottom: 5px;
+	padding: 0 25px;
+  line-height: 24px;
+}
+/*plan start*/
+.cm_padding {
+  padding: 60px 0;
+}
+.plan_h1 {
+  font-size: 30px;
+}
+.cm_item {
+  margin-top: 30px;
+  padding: 20px 15px;
+}
+.pn_h2 {
+  top: 5px;
+  font-size: 32px;
+  line-height: 30px;
+}
+.pl_h2 {
+  font-size: 18px;
+}
+.plan_p {
+  margin: 15px 0 0;
+  line-height: 24px;
+}
+/*vision start*/
+.v_cnt {
+  display: block !important;
+  margin: 0 0 20px;
+}
+.v_img {
+  margin: 0 auto 10px;
+  padding: 15px 0;
+  width: 80px; 
+}
+.v_text h2 {
+  margin: 0 0 5px;
+}
+.btn_vi {
+  margin: 0;
+}
+/*service start*/
+.ser_p {
+  margin: 15px 0 0 0;
+}
+/*team start*/
+.cus_mar {
+  margin: 30px 0 0;
+}
+.t_item h2 {
+  margin: 20px 0 10px;
+}
+/*testimonial start*/
+.test {
+  padding: 60px 0 100px;
+}
+.te_indi {
+  top: 107%;
+}
+.te_indi [data-bs-target] {
+  width: 13px;
+  height: 13px;
+}
+.tc_item {
+  padding: 20px 15px;
+}
+.te_right img {
+  width: 50px;
+  height: 42px;
+}
+.tp_1 {
+  margin: 25px 0 15px;
+  line-height: 24px;
+}
+/*contact start*/
+.c_form, .c_item {
+  margin: 30px 0 0;
+  padding: 20px 15px;
+}
+.c_text i {
+  margin: 0 0 10px;
+}
+.c_form input, .c_form textarea {
+  margin: 0 0 10px;
+  padding: 12px 15px;
+}
+.c_text {
+  margin: 0 auto 20px;
+  display: block !important;
+  text-align: center;
+}
+.c_text:nth-child(3) {
+  margin: 0 0 25px;
+}
+.c_right h2 {
+  margin: 0 0 5px;
+  font-size: 18px;
+}
+.c_icon ul li {
+  margin-right: 10px !important;
+}
+.c_icon ul li a i {
+  margin: 20px 0 0;
+  width: 54px;
+  height: 54px;
+  line-height: 54px;
+}
+/*blog start*/
+.bl_item {
+  padding: 20px 15px;
+}
+.bl_item h2 {
+  padding-right: 0;
+}
+.b_li {
+  margin-right: 5px !important;
+}
+.b_left ul li img {
+  width: 34px;
+  height: 34px;
+}
+.b_left ul li span, .b_right p {
+  font-size: 14px;
+}
+/*catch start*/
+.ca_item {
+  padding: 40px 0;
+}
+.ca_item h1 {
+  margin: 0 0 30px;
+  font-size: 28px;
+  line-height: 38px;
+}
+/*footer start*/
+footer {
+  padding: 30px 0 60px;
+  text-align: center;
+}
+.f_text p {
+  margin: 15px 10px 20px;
+  line-height: 24px;
+}
+.f_icon ul li {
+  margin-right: 15px !important;
+}
+.f_line {
+  margin: 15px auto 25px;
+}
+.f_link ul li a {
+  margin-bottom: 10px;
+}
+.f_left {
+  display: block !important;
+}
+.f_left i {
+  margin: 0 0 10px;
+}
+.f_right h3 {
+  margin: 0 0 5px;
+}
+.foot_p {
+  margin: 0 10px 20px;
+  font-size: 18px;
+  line-height: 24px;
+}
+.f_input {
+  padding: 13px 15px;
+}
+.btn_foot {
+  margin: 20px auto 0;
+  display: block;
+}
+
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*header start*/
+header {
+  padding: 10px 0;
+}
+.menu ul li a {
+  padding: 0 0 5px !important;
+}
+.btn_h {
+  margin-left: 0;
+}
+/*banner start*/
+.b_img {
+	padding: 0 45px 30px;
+}
+.b_text {
+	text-align: center;
+}
+.ban_h2 {
+  margin: 0 0 5px;;
+  font-size: 20px;
+}
+.b_text h1 {
+  margin: 0 100px 20px;
+  font-size: 30px;
+  line-height: 44px;
+}
+.btn_ban {
+  padding: 14px 36px;
+}
+/*about start*/
+.cm_mp {
+  padding: 30px 0 60px;
+}
+.a_item {
+  margin: 30px 0 0;
+}
+.a_text {
+	text-align: center;
+}
+.ab_h1 {
+	padding: 0 60px;
+  font-size: 30px;
+  line-height: 44px;
+}
+.ab_p {
+  margin: 15px 0;
+  padding-right: 0;
+  line-height: 24px;
+}
+.a_float {
+  display: block !important;
+  margin: 0 80px;
+}
+.a_left {
+  margin: 0 auto 10px;
+  padding: 15px 0;
+  width: 80px;
+}
+/*plan start*/
+.cm_padding {
+  padding: 60px 0;
+}
+.plan_h1 {
+  font-size: 30px;
+}
+.cm_item {
+  margin-top: 30px;
+  padding: 20px 15px;
+}
+.pn_h2 {
+  top: 5px;
+  font-size: 32px;
+  line-height: 30px;
+}
+.pl_h2 {
+  margin: 12px 0 5px;
+}
+.plan_p {
+  margin: 10px 0 0;
+  line-height: 24px;
+}
+/*vision start*/
+.v_cnt {
+  display: block !important;
+  margin: 0 80px 30px;
+}
+.v_img {
+  margin: 0 auto 10px;
+  padding: 15px 0;
+  width: 80px; 
+}
+.btn_vi {
+  margin: 0;
+}
+/*service start*/
+.sv_item {
+  padding: 20px 13px;
+}
+.ser_h2 {
+  font-size: 16px;
+}
+/*team start*/
+.cus_mar {
+  margin: 30px 0 0;
+}
+.t_item h2 {
+  margin: 20px 0 10px;
+}
+/*testimonial start*/
+.test {
+  padding: 60px 0 100px;
+}
+.te_indi {
+  top: 109%;
+}
+.te_indi [data-bs-target] {
+  width: 13px;
+  height: 13px;
+}
+.tc_item {
+  padding: 20px 15px;
+}
+.te_right img {
+  width: 50px;
+  height: 42px;
+}
+.tp_1 {
+  margin: 30px 0 20px;
+  line-height: 24px;
+}
+/*contact start*/
+.c_form, .c_item {
+  margin: 30px 40px 0;
+  padding: 20px 15px;
+}
+.c_text i {
+  margin: 0 0 10px;
+}
+.c_form input, .c_form textarea {
+  margin: 0 0 15px;
+  padding: 12px 15px;
+}
+.c_text {
+  margin: 0 auto 25px;
+  display: block !important;
+  text-align: center;
+}
+.c_text:nth-child(3) {
+  margin: 0 0 30px;
+}
+.c_right h2 {
+  font-size: 18px;
+}
+/*blog start*/
+.bl_item {
+  margin: 30px 50px 0;
+}
+/*catch start*/
+.ca_item {
+  padding: 40px 0;
+}
+.ca_item h1 {
+  margin: 0 60px 30px;
+  font-size: 28px;
+  line-height: 44px;
+}
+/*footer start*/
+footer {
+  padding: 30px 0 60px;
+}
+.f_text p {
+  margin: 15px 20px 25px 0;
+  line-height: 26px;
+}
+.f_icon ul li {
+  margin-right: 8px !important;
+}
+.f_icon ul li a i {
+  width: 50px;
+  height: 50px;
+  line-height: 50px;
+}
+.f_line {
+  margin: 15px 0 20px;
+}
+.f_link ul li a {
+  margin-bottom: 8px;
+}
+.f_left i {
+  margin-right: 10px;
+  width: 55px;
+  height: 55px;
+  font-size: 34px;
+  line-height: 55px;
+}
+.f_right h3 {
+  margin: 0 0 5px;
+}
+.foot_p {
+  margin: 0 26px 20px 0;
+  font-size: 18px;
+  line-height: 26px;
+}
+.f_input {
+  padding: 13px 15px;
+}
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*header start*/
+header {
+  padding: 10px 0;
+}
+.menu ul li a {
+  padding: 0 0 5px !important;
+}
+.btn_h {
+  margin-left: 0;
+}
+/*banner start*/
+.b_img {
+	padding: 0 50px 30px;
+}
+.b_text {
+	text-align: center;
+}
+.ban_h2 {
+  margin: 0 0 5px;;
+  font-size: 22px;
+}
+.b_text h1 {
+  margin: 0 150px 20px;
+  font-size: 36px;
+  line-height: 50px;
+}
+/*about start*/
+.cm_mp {
+  padding: 40px 0 80px;
+}
+.a_item {
+  margin: 40px 0 0;
+	padding: 0 60px;
+}
+.a_text {
+	text-align: center;
+}
+.ab_h1 {
+  padding: 0 60px;
+  font-size: 34px;
+}
+.ab_p {
+  margin: 25px 0;
+  padding-right: 0;
+}
+.a_float {
+  display: block !important;
+  margin: 0 100px;
+}
+.a_left {
+  margin: 0 auto 15px;
+  padding: 15px 0;
+  width: 80px;
+}
+/*plan start*/
+.cm_padding {
+  padding: 80px 0;
+}
+.plan_h1 {
+  font-size: 34px;
+}
+.cm_item {
+  padding: 30px 20px;
+}
+.pn_h2 {
+  top: 5px;
+  font-size: 36px;
+  line-height: 40px;
+}
+.plan_p {
+  margin: 15px 0 0;
+}
+/*vision start*/
+.v_text {
+  text-align: left;
+}
+/*service start*/
+.ser_p {
+  margin: 15px 0 0 ;
+}
+/*team start*/
+.t_item h2 {
+  margin: 25px 0 10px;
+}
+/*testimonial start*/
+.test {
+  padding: 80px 0 130px;
+}
+.te_indi {
+  top: 110%;
+}
+.te_indi [data-bs-target] {
+  width: 15px;
+  height: 15px;
+}
+.tc_item {
+  padding: 20px;
+}
+/*contact start*/
+.c_form, .c_item {
+  margin: 40px 100px 0;
+  padding: 30px 20px;
+}
+.c_text i {
+  margin-right: 25px;
+}
+.c_form input, .c_form textarea {
+  margin: 0 0 15px;
+  padding: 12px 15px;
+}
+.c_text {
+  margin: 0 0 20px;
+}
+.c_text:nth-child(3) {
+  margin: 0 0 35px;
+}
+/*blog start*/
+.bl_item {
+  margin: 40px 120px 0;
+}
+.bl_item h2 {
+  padding-right: 150px
+}
+/*catch start*/
+.ca_item {
+  padding: 40px 0;
+}
+.ca_item h1 {
+  margin: 0 30px 30px;
+  font-size: 30px;
+}
+/*footer start*/
+footer {
+  padding: 40px 0 80px;
+}
+.f_line {
+  margin: 15px 0 25px;
+}
+.f_link ul li a {
+  margin-bottom: 10px;
+}
+.foot_p {
+  margin: 0 91px 30px 0;
+}
+.f_input {
+  padding: 13px 18px;
+}
+
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/*banner start*/
+.circle_1 img {
+  left: -8%;
+}
+.circle_2 img {
+  left: 24%;
+}
+.circle_3 img {
+  bottom: 10%;
+}
+/*about start*/
+.ab_h1 {
+  font-size: 34px;
+  line-height: 45px;
+}
+.ab_p {
+  margin: 15px 0;
+  padding-right: 20px;
+}
+/*plan start*/
+.cm_item {
+  padding: 15px;
+}
+.pn_h2 {
+  top: 0;
+  font-size: 40px;
+}
+.pl_h2 {
+  margin: 12px 0 5px;
+  font-size: 18px;
+}
+.plan_p {
+  margin: 10px 0 0 0;
+}
+/*vision start*/
+.v_cnt {
+  padding: 8px;
+  background-color: var(--whi);
+  border-radius: 10px;
+}
+.v_img {
+  padding: 10px;
+}
+/*testimonial start*/
+.tc_item {
+  padding: 25px;
+}
+/*contact start*/
+.c_form, .c_item {
+  padding: 30px 15px;
+}
+.c_form input, .c_form textarea {
+  margin: 0 0 15px;
+}
+.c_text {
+    margin: 0 0 25px;
+}
+.c_text:nth-child(3) {
+  margin: 0 0 32px;
+}
+.c_text i {
+  margin-right: 10px;
+  width: 60px;
+  height: 60px;
+  font-size: 24px;
+  line-height: 60px;
+}
+.c_right p,.c_right address {
+  font-size: 15px;
+}
+.c_icon ul li {
+  margin-right: 10px !important;
+}
+.c_icon ul li a i {
+  width: 55px;
+  height: 55px;
+  line-height: 55px;
+}
+/*blog start*/
+.bl_item {
+  padding: 20px 10px;
+}
+.bl_item h2 {
+  padding-right: 0;
+}
+.b_left ul li img {
+  width: 35px;
+  height: 35px;
+}
+.b_left ul li span, .b_right p {
+  font-size: 14px;
+}
+/*catch start*/
+.ca_item {
+  padding: 50px 0;
+}
+.ca_item h1 {
+  margin: 0 75px 30px;
+}
+/*footer start*/
+.f_text p {
+  margin: 15px 20px 25px 0;
+}
+.f_icon ul li {
+  margin-right: 5px !important;
+}
+.f_icon ul li a i {
+  width: 45px;
+  height: 45px;
+  line-height: 45px;
+}
+.f_link ul li a {
+  margin-bottom: 15px;
+}
+.f_left i {
+  margin-right: 10px;
+  width: 50px;
+  height: 50px;
+  font-size: 30px;
+  line-height: 50px;
+}
+.f_right h3 {
+  margin: 0 0 5px;
+  font-size: 18px;
+}
+.foot_p {
+  margin: 0 8px 20px 0;
+  font-size: 17px;
+}
+.f_input {
+  padding: 13px 15px;
+}
+
+}
+
+/*Extra large devices (extra large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+/*banner start*/
+.circle_3 img {
+  bottom: 3%;
+}
+/*about start*/
+.ab_p {
+  margin: 25px 0;
+  padding-right: 50px;
+}
+/*plan start*/
+.cm_item {
+  padding: 20px;
+}
+.pn_h2 {
+  top: 5px;
+}
+.plan_p {
+  margin: 15px 15px 0 0;
+}
+/*contact start*/
+.c_icon ul li {
+  margin-right: 10px !important;
+}
+/*blog start*/
+.bl_item h2 {
+  padding-right: 50px;
+}
+/*catch start*/
+.ca_item h1 {
+  margin: 0 115px 30px;
+}
+/*footer start*/
+.f_text p {
+  margin: 20px 35px 30px 0;
+}
+.f_icon ul li {
+  margin-right: 14px !important;
+}
+.foot_p {
+  margin: 0 17px 30px 0;
+}
+.f_input {
+  padding: 13px 20px;
+}
+
+}
+
+/*Extra extra large devices (extra extra large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+
+}
